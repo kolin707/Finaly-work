@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/fragment_1"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/_1_fragment" />
+    <item
+        android:id="@+id/fragment_2"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_name2"
+        android:title="@string/_2_fragment" />
+    <item
+        android:id="@+id/fragment_3"
+        android:enabled="true"
+        android:icon="@drawable/ic_action_name3"
+        android:title="@string/_3_fragment" />
+
+
+    </menu>
